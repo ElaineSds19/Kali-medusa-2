@@ -1,0 +1,122 @@
+2025-11-23 10:01:31.666 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-11-23 10:01:31.666 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-11-23 10:01:31.666 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-11-23 10:01:31.666 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-11-23 10:01:32.213 [info] Logged in as ElaineSds19
+2025-11-23 10:01:32.216 [info] Using the Electron fetcher.
+2025-11-23 10:01:32.881 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:01:32.882 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:01:32.932 [info] activationBlocker from 'languageModelAccess' took for 986ms
+2025-11-23 10:01:33.280 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:01:33.281 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-23 10:01:33.334 [info] Registering default platform agent...
+2025-11-23 10:01:33.336 [info] activationBlocker from 'conversationFeature' took for 1411ms
+2025-11-23 10:01:33.619 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-11-23 10:01:33.624 [info] Fetched model metadata in 1022ms daf94871-81f4-42b1-9e0b-7e2fe6efdf05
+2025-11-23 10:01:33.630 [info] Latest entry: ccreq:latest.copilotmd
+2025-11-23 10:01:33.632 [info] ccreq:802a99e1.copilotmd | markdown
+2025-11-23 10:01:34.472 [warning] [RateLimit] REST rate limit remaining: 0, agents/swe/custom-agents/ElaineSds19/Python-denovo?exclude_invalid_config=true
+2025-11-23 10:20:44.402 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-11-23 10:20:44.402 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-11-23 10:20:44.402 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-11-23 10:20:44.402 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-11-23 10:20:48.301 [info] Logged in as ElaineSds19
+2025-11-23 10:20:48.303 [info] Using the Electron fetcher.
+2025-11-23 10:20:48.911 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:20:48.911 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:20:48.941 [info] activationBlocker from 'languageModelAccess' took for 1222ms
+2025-11-23 10:20:49.139 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:20:49.139 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-23 10:20:49.189 [info] Registering default platform agent...
+2025-11-23 10:20:49.207 [info] activationBlocker from 'conversationFeature' took for 1499ms
+2025-11-23 10:20:49.355 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-11-23 10:20:49.606 [info] Fetched model metadata in 882ms 9f07e70b-9c37-48a2-a889-2170e8765348
+2025-11-23 10:20:49.646 [info] Latest entry: ccreq:latest.copilotmd
+2025-11-23 10:20:49.648 [info] ccreq:5807c993.copilotmd | markdown
+2025-11-23 10:20:52.897 [warning] [RateLimit] REST rate limit remaining: 0, agents/swe/custom-agents/ElaineSds19/Elainesds1906?exclude_invalid_config=true
+2025-11-23 10:25:15.057 [info] Request ID for failed request: 7b04d9a5-3b26-4876-a7be-e8b9ce840e2b
+2025-11-23 10:25:15.123 [info] ccreq:5bfbba5d.copilotmd | quotaExceeded | gpt-4o-mini | 278ms | [intentDetection]
+2025-11-23 10:25:15.217 [info] Logged in as ElaineSds19
+2025-11-23 10:25:15.218 [info] Summarized doc to fit token budget (54036.25 / 127997): 19 + 1825 + 0
+2025-11-23 10:25:15.649 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:25:15.650 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:25:15.674 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:25:15.740 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:25:16.190 [info] Fetched model metadata in 502ms 0b40f181-ff2e-49f5-add4-9755044aff12
+2025-11-23 10:25:16.354 [info] ccreq:1987e0e2.copilotmd | markdown
+2025-11-23 10:25:16.366 [info] Request ID for failed request: a03fecfe-9f3f-4384-91f8-898a072f8cdf
+2025-11-23 10:25:16.392 [info] ccreq:8ec8b5b6.copilotmd | quotaExceeded | gpt-5-mini | 1155ms | [inline/unknown]
+2025-11-23 10:25:16.465 [info] Logged in as ElaineSds19
+2025-11-23 10:25:16.840 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:25:16.840 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:25:16.864 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:25:16.935 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:25:17.065 [info] Fetched model metadata in 199ms b6bc9875-7d0f-4b8b-968a-a5d8f738521b
+2025-11-23 10:25:17.069 [info] ccreq:0129f3ec.copilotmd | markdown
+2025-11-23 10:27:03.582 [info] Request ID for failed request: 596030bf-c998-4d80-bff0-2de41c5f211a
+2025-11-23 10:27:03.642 [info] ccreq:01bd9125.copilotmd | quotaExceeded | gpt-4o-mini | 411ms | [intentDetection]
+2025-11-23 10:27:03.714 [info] Summarized doc to fit token budget (54036.25 / 127997): 19 + 1825 + 0
+2025-11-23 10:27:03.724 [info] Logged in as ElaineSds19
+2025-11-23 10:27:04.163 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:27:04.164 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:27:04.198 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:27:04.260 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:27:04.409 [info] Fetched model metadata in 194ms 2c5ab701-5555-408b-a86d-4800deae1a6b
+2025-11-23 10:27:04.414 [info] Request ID for failed request: 023ae248-fc7e-4a00-b0c4-c129c07620fb
+2025-11-23 10:27:04.416 [info] ccreq:3ee07e00.copilotmd | markdown
+2025-11-23 10:27:04.445 [info] ccreq:02192ebb.copilotmd | quotaExceeded | gpt-5-mini | 727ms | [inline/unknown]
+2025-11-23 10:27:04.518 [info] Logged in as ElaineSds19
+2025-11-23 10:27:04.851 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:27:04.852 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:27:04.865 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:27:04.911 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:27:05.050 [info] Fetched model metadata in 184ms c216258d-c14f-4508-a3a9-b2cb97e1a20c
+2025-11-23 10:27:05.054 [info] ccreq:3920a72c.copilotmd | markdown
+2025-11-23 10:34:30.157 [info] Request ID for failed request: f96885f3-ef0a-4baf-a1d6-d640ba0f2c9f
+2025-11-23 10:34:30.186 [info] ccreq:d44a9560.copilotmd | quotaExceeded | gpt-4o-mini | 584ms | [intentDetection]
+2025-11-23 10:34:30.252 [info] Summarized doc to fit token budget (54036.25 / 127997): 19 + 1825 + 0
+2025-11-23 10:34:30.265 [info] Logged in as ElaineSds19
+2025-11-23 10:34:30.799 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:34:30.799 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:34:30.816 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:34:30.885 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:34:31.023 [info] Fetched model metadata in 189ms 6f3cd2cf-e52f-46f7-832e-f3b44c355afa
+2025-11-23 10:34:31.203 [info] ccreq:81631eec.copilotmd | markdown
+2025-11-23 10:34:31.216 [info] Request ID for failed request: 14b81710-c928-47fe-a4a7-e9ff8241c07e
+2025-11-23 10:34:31.246 [info] ccreq:a3ee72c5.copilotmd | quotaExceeded | gpt-5-mini | 990ms | [inline/unknown]
+2025-11-23 10:34:31.329 [info] Logged in as ElaineSds19
+2025-11-23 10:34:31.654 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:34:31.654 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:34:31.679 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:34:31.737 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:34:31.880 [info] Fetched model metadata in 200ms eeb724fc-91d9-430a-960f-e5349bf16042
+2025-11-23 10:34:32.044 [info] ccreq:3940941a.copilotmd | markdown
+2025-11-23 10:37:38.284 [info] Request ID for failed request: f6361aa2-7525-4b0f-8a40-f1852f7e3d31
+2025-11-23 10:37:38.337 [info] ccreq:92fd405a.copilotmd | quotaExceeded | gpt-4o-mini | 334ms | [intentDetection]
+2025-11-23 10:37:38.411 [info] Summarized doc to fit token budget (54036.25 / 127997): 1797 + 43 + 2
+2025-11-23 10:37:38.416 [info] Logged in as ElaineSds19
+2025-11-23 10:37:38.857 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:37:38.858 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:37:38.898 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:37:38.950 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:37:39.100 [info] Fetched model metadata in 187ms d7b0bb4f-0492-4434-9845-2737bf1c0ef1
+2025-11-23 10:37:39.101 [info] ccreq:e2cc827d.copilotmd | markdown
+2025-11-23 10:37:39.112 [info] Request ID for failed request: 84d6de30-a6a7-47aa-9cbc-8d83256013ad
+2025-11-23 10:37:39.131 [info] ccreq:ae3e0a74.copilotmd | quotaExceeded | gpt-5-mini | 713ms | [inline/unknown]
+2025-11-23 10:37:39.184 [info] Logged in as ElaineSds19
+2025-11-23 10:37:39.533 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:37:39.533 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:37:39.554 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:37:39.615 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:37:39.753 [info] Fetched model metadata in 199ms 8081cfc7-71ce-4486-ad71-38a7abf53a96
+2025-11-23 10:37:39.761 [info] ccreq:31742a6a.copilotmd | markdown
+2025-11-23 10:40:25.248 [info] [CurrentChange] Full documents: 904 tokens, 110905 budget
+2025-11-23 10:40:26.076 [info] Request ID for failed request: d9139ebd-4529-4c1f-8055-1283c84db7b9
+2025-11-23 10:40:26.102 [info] ccreq:20a461c7.copilotmd | quotaExceeded | gpt-4.1 | 818ms | [feedbackGenerator]
+2025-11-23 10:40:26.236 [info] Logged in as ElaineSds19
+2025-11-23 10:40:26.770 [info] Got Copilot token for ElaineSds19
+2025-11-23 10:40:26.770 [info] Copilot Chat: 0.33.2, VS Code: 1.106.2
+2025-11-23 10:40:26.777 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:40:26.810 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-11-23 10:40:26.962 [info] Fetched model metadata in 179ms 1195fcb5-bdc0-4885-8844-a54827b1e5b4
+2025-11-23 10:40:27.122 [info] ccreq:a77c34e4.copilotmd | markdown
